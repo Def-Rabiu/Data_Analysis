@@ -19,5 +19,5 @@ This project aims to undertake a thorough examination of COVID-19 cases worldwid
 
 During the project's progression, I faced some challenges that provided valuable learning opportunities. One such challenge involved familiarizing myself with SimpleImputer, a technique used to handle missing values by employing descriptive analysis methods such as mean, median, mode, etc. Additionally, I dedicated time to studying the concept of groupby in Python, which facilitated the aggregation and analysis of data based on specific criteria.
 
-In conclusion, I aspire to connect this project with Power BI, a powerful visualization tool, to present the COVID-19 data on a state-level basis for each country. This integration will enhance the project's visual representation and facilitate a deeper understanding of the pandemic's impact across different regions.
+In conclusion, I aspire to connect this project with Power BI, a powerful visualization tool, to present the COVID-19 data on a state-level basis for each country. This integration will enhance the project's visual representation and facilitate a deeper comprehension of the pandemic's impact across different regions.
 
