@@ -21,3 +21,14 @@ During the project's progression, I faced some challenges that provided valuable
 
 In conclusion, I aspire to connect this project with Power BI, a powerful visualization tool, to present the COVID-19 data on a state-level basis for each country. This integration will enhance the project's visual representation and facilitate a deeper comprehension of the pandemic's impact across different regions.
 
+## Project 3: Web Scraping
+
+### Project Description
+
+"In this project, I demonstrated my proficiency in autonomously acquiring data by utilizing powerful tools such as BeautifulSoup, Requests, Plotly, and Pandas. By extracting data from GoodFirms, a comprehensive platform offering various services worldwide, I effectively showcased my ability to gather valuable information.
+
+Moreover, my strong command over HTML played a pivotal role in this project. Despite encountering challenges in deciphering intricate details within the HTML code, my prior knowledge of HTML enabled me to overcome these obstacles and succeed.
+
+Looking ahead, I am eager to leverage the extracted and meticulously processed data for machine learning predictions. I aspire to apply advanced algorithms and techniques to uncover meaningful insights and make accurate predictions based on the data."
+
+
