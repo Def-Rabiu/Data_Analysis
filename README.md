@@ -1,5 +1,9 @@
 # Data_Analysis
-Compilation of data analysis with python and machine learning
+* Data cleaning
+* Data wrangling
+* EDA
+* Data sourcing
+* Data visualization
 
 ## Project 1: Attrition Control
 
